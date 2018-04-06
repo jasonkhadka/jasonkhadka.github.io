@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://jasonkhadka.github.io
+title: Jason Khadka
+email: jasonkhadka33@gmail.com
+author: Jason Khadka
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  Jason Khadka is a PhD student at Max Planck Institute for Dynamics and Self-Organisation. He is working on developing a 3D mechanical model for plant tissue growth.
+copyright: 'Copyright &copy; 2018 Jason Khadka. All Rights Reserved.'
+credits: 'Built upon open source.<br><a href="https://jekyllrb.com//">Jekyll</a> . <a href="http://startbootstrap.com/">Start Bootstrap</a>'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +24,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  #- title: twitter
+  #  url: https://twitter.com/SBootstrap
+  - title: email
+    url: mailto:jasonkhadka33@gmail.com
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/jasonkhadka
   - title: linkedin
-    url: 
+    url: https://linkedin.com/in/khadka
+  
