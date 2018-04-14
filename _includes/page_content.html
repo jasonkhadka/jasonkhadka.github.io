@@ -1,11 +1,24 @@
 <section id="experience">
 <!-- Page Content -->
+    <div class="heading-separator">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="heading-message">
+                        <h1>Experience</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 {% for post in site.posts reversed %}
+  {% if post.category == "Experience" %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-
     <div class="content-section-a">
-
         <div class="container">
 
             <div class="row">
@@ -49,8 +62,10 @@
         </div>
         <!-- /.container -->
 
-    </div>
-    <!-- /.content-section-b -->
+        </div>
+        <!-- /.content-section-b -->
+        {% endif %}
     {% endif %}
 {% endfor %}
 </section>
+
