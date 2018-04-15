@@ -9,7 +9,7 @@ author: Jason Khadka
 description: > # "Write an awesome description for your new site here. 
   Jason Khadka is a PhD student at Max Planck Institute for Dynamics and Self-Organisation. He is working on developing a 3D mechanical model for plant tissue growth.
 copyright: 'Copyright &copy; 2018 Jason Khadka. All Rights Reserved.'
-credits: 'Built upon open source.<br><a href="https://jekyllrb.com//">Jekyll</a> . <a href="http://startbootstrap.com/">Start Bootstrap</a>'
+credits: 'Built upon open source.<br><a href="https://jekyllrb.com//" class="footer-text">Jekyll</a> . <a href="http://startbootstrap.com/" class="footer-text">Start Bootstrap</a>'
 
 # ----------------------- #
 #    Jekyll & Plugins     #

@@ -38,10 +38,15 @@ h6 {
     padding-top: 10px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 10px;
     text-align: center;
-    color: #333333;
+    color: #f8f8f8;
+    border-top: 2px solid #e7e7e7;
     /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
-    background-color: #88d4ac;
-    background: linear-gradient(to right, #88d4ac,#99c2ff,white);
+    background: #06beb6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #48b1bf, #06beb6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #48b1bf, #06beb6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /*background-color: #88d4ac;
+    background: linear-gradient(to right, #88d4ac,#99c2ff,white);*/
     background-size: cover;
 }
 .heading-message {
@@ -55,9 +60,42 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
 }
-.navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+.navbar-default .navbar-brand{
+    color: #e7e7e7;
+}
+.navbar-nav > .active > a:focus {
+    color: #e7e7e7;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #f8f8f8;
+  background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a {
+     color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav{
+    color: #e7e7e7;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #f8f8f8;
+  background-color: transparent;
+}
+.navbar-default  {
+    color: #f8f8f8;
+ 
+    background: #ee4458;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f86a54, #ee4458);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f86a54, #ee4458); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*
+    background: #EB3349;  /* fallback for old browsers 
+    background: -webkit-linear-gradient(to right, #F45C43, #EB3349);  /* Chrome 10-25, Safari 5.1-6 
+    background: linear-gradient(to right, #F45C43, #EB3349); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-bottom: 0px;
+    /*border-color: #06beb6;*/
 }
 .intro-message {
     position: relative;
@@ -180,10 +218,31 @@ h6 {
         margin-bottom: 0;
     }
 }
-
+.text-muted {
+  color: #f8f8f8;
+}
+.list-inline {
+    color: #f8f8f8;
+}
+.col-md-8 {
+    color: #f8f8f8;
+  }
+.list-inline > li {
+    color: #f8f8f8;
+}
+.footer-text{
+    color: #f8f8f8;
+}
 footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
+    color: #f8f8f8;
+    border-top: 2px solid #e7e7e7;
+    padding: 40px 0;
+    /*background-color: #f8f8f8;*/
+    /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
+    background: #ee4458;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f86a54, #ee4458);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f86a54, #ee4458);  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 p.copyright {
