@@ -1,4 +1,4 @@
-Webpage created with Jekyll for Jason Khadka based on bootstrap
+Webpage created with Jekyll based on bootstrap
 
 # License
 The contents of this repository are licensed under the [Apache
