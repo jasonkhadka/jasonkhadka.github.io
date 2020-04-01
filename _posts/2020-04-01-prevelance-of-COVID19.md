@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Placeholder for future post
+title: Beyond the COVID-19 hotspots
 author: Jason Khadka
 date: '2020-04-01'
-category: meta
+category: covid-19
 summary: Placeholder to put in future post
-thumbnail: code.jpg
+thumbnail: virus.jpg
 ---
 
 This is a sample post

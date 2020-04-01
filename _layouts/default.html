@@ -7,12 +7,17 @@ layout: compress
 {%- include head.html -%}
 <body>
     <div class="container-fluid">
-        {%- include header.html -%}
-        <div class="col-lg-12">
-            {{ content }}
+        <div id='wrap'>
+            <div id='main'>
+            {%- include header.html -%}
+                <div class="col-lg-12">
+                    {{ content }}
+                </div>
+            </div>
         </div>
+        <div id = 'footer'>
+            {%- include footer.html -%}
         </div>
-        {%- include footer.html -%}
     </div>
      <script>
             var options = {

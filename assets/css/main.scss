@@ -147,6 +147,14 @@ header {
     margin: 0px !important;
     padding: 0px !important;
 }
+#wrap {
+    min-height: 100vh;
+}
+#main{
+    overflow: auto;
+  padding-bottom: 70px;
+  /* must be same height as the footer */
+}
 .card {
     margin: 20px !important;
     padding: 20px !important;
@@ -418,11 +426,15 @@ header {
         margin-top: 30px;
     }
 
+
 footer {
+    position: relative;
+    margin-top:-70px;
     width: 100%;
     height: 70px;
     text-align: center;
     padding: 20px;
+    clear:both;
     background-color: var(--main-background-color);
     color: var(--main-text-color);
 }
