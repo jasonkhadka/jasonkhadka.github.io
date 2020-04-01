@@ -1,5 +1,5 @@
 
-## Welcome to the my personal site
+## Welcome to my personal site
 This site is aimed to keep track of my projects and provide my short bio.
 
 ## Built with Jekyll
