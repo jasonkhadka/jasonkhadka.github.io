@@ -26,7 +26,7 @@ have barely tested a fraction of that number in total (e.g. India ([47,951](http
 
 To check if the economic means have indeed had an impact on the location of COVID-19 hotspots, I looked at the data provided by [John Hopkins University of detected total Sars-CoV-2 cases](https://github.com/CSSEGISandData/COVID-19) and the [world bank data for GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD). The following animation shows the total detected cases over the time against the GDP of a nation. We see that the countries along the right of x-axis see the rise in corona cases (even if you ignore China) as compared to the bunched up countries in the left most part of x-axis (lower GDP). 
 <p align='center'>
-<img alt='Total corona cases against GDP' src='/assets/img/posts/CoronaTotalVsGDP.gif'>
+<img alt='Total corona cases against GDP' src='/assets/img/posts/coronaTotalVsGDP.gif'>
 </p>
 <p align='center'>
 Fig 2. Rise in total COVID-19 cases with the GDP of a country. Some countries are highlighted with red mark and the country code is mentioned for emphasis.
