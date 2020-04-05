@@ -26,7 +26,7 @@ have barely tested a fraction of that number in total (e.g. India ([47,951](http
 
 To check if the economic means have indeed had an impact on the location of COVID-19 hotspots, I looked at the data provided by [John Hopkins University of detected total Sars-CoV-2 cases](https://github.com/CSSEGISandData/COVID-19) and the [world bank data for GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD). The following animation shows the total detected cases over the time against the GDP of a nation. We see that the countries along the right of x-axis see the rise in corona cases (even if you ignore China) as compared to the bunched up countries in the left most part of x-axis (lower GDP). 
 <p align='center'>
-<img alt='Total corona cases against GDP' src='/assets/img/posts/coronaTotalVsGDP.gif' width="70%">
+<img alt='Total corona cases against GDP' src='/assets/img/posts/coronaTotalVsGDP.gif' width="50%">
 </p>
 <p align='center'>
 Fig 2. Rise in total COVID-19 cases with the GDP of a country. Some countries are highlighted with red mark and the country code is mentioned for emphasis.
@@ -34,23 +34,23 @@ Fig 2. Rise in total COVID-19 cases with the GDP of a country. Some countries ar
 This correlation of total cases to GDP of a country is further highlighted if I normalise the case count and GDP by population of a country. Below, the figure shows the COVID-19 cases per 1000 against the GDP per capita for the countries. The gaining momentum in case counts among the higher GDP countries is clear compared to countries with less means in the left bottom corner of the plots.
 
 <p align='center'>
-<img alt="Total corona cases per 1000 agains GDP per capita" src="/assets/img/posts/coronaVsGDP_perCapita.gif" width="70%">
+<img alt="Total corona cases per 1000 agains GDP per capita" src="/assets/img/posts/coronaVsGDP_perCapita.gif" width="50%">
 </p>
 <p align='center'>
 Fig 3. Total COVID-19 cases per 1000 with the GDP per capita of a country. Some countries are highlighted with red mark and the country code is mentioned for emphasis.
 </p>
 The limited test-kits are concentrated at the moment in the countries that produce them or [that can gather them](https://www.bbc.com/news/world-us-canada-52161032) through the economic or political means. The rising cases in these countries and the creation of supposed hotspots in the past months can be attirbuted to basically the fact that those with means know who are sick, those without know nothing. The plot below is bracketing the GDP to see the distribution of total cases per 1000 in counties. Over the time, again, it is evident that the case counts sky-rocket in countries to the right of x-axis, while to the very left we see minimal cases. 
 <p align='center'>
-<img alt="Distribution of corona cases per 1000 by GDP brackets" src="/assets/img/posts/CoronaCaseDistribution.gif" width="70%">
+<img alt="Distribution of corona cases per 1000 by GDP brackets" src="/assets/img/posts/CoronaCaseDistribution.gif" width="50%">
 </p>
 <p align='center'>
-Fig 4. Case distribution per 1000 against GDP of countries.
+Fig 4. Case distribution per 1000 against GDP of countries. (Please be patient with this plot, the bars become significant only in March.)
 </p>
 The relation of ability to gather and administer test and be the possible hotspot is clear with these plots. With rising case numbers in limited countries, the narrative of hotspots are driven in the news cycles and social media. However, one has to be careful to take these narrative at face value. Has the virus clearly choosen to be particularly harmful to the richer countries? Is the spread to these countries and creation of these hotspots correlated to the globalisation? Where these well-off countries harbour stronger connection to the globle than the once on the lower end of GDP table. The stronger ties is one of the reason often mentioned while explaning the rising cases in these countries. However, the flight network has woven the globe tight in the past decades, with little to no part of the world being left isolated. Fig. 6 visualises the flight network per nation. With such prevalent connection among all the countries, the localisation of the virus in richer East Asian, or the European or North American countries is hard to digest. 
 
 
 <p align='center'>
-<img alt="Top 5 and bottom 5 countries comparision" src='/assets/img/posts/topbot5_countries.png' width="70%">
+<img alt="Top 5 and bottom 5 countries comparision" src='/assets/img/posts/topbot5_countries.png' width="50%">
 </p>
 <p align='center'>
 Fig 5. Corona cases for five rich countries with GDP per capita of near 100,000 compared to countries with bottom five countries in terms of GDP.
