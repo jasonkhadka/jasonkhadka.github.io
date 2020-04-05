@@ -272,6 +272,25 @@ img {
   border-style: none; // Remove the border on images inside links in IE 10-.
 }
 
+.img-post{
+  vertical-align: middle;
+  border-style: none; // Remove the border on images inside links in IE 10-.
+}
+.img-post-small{
+  vertical-align: middle;
+  border-style: none; // Remove the border on images inside links in IE 10-.
+  width:50%;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ .img-post{
+    width:100%;
+  }
+  .img-post-small{
+    width:100%;
+  }
+}
+
 svg:not(:root) {
   overflow: hidden; // Hide the overflow in IE
 }
