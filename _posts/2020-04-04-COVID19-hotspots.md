@@ -15,7 +15,7 @@ It is suspected to emerg from the city of Wuhan in China, possibly jumped from b
 The focus on this corona virus started soon after the new years with its epidemy centered in Wuhan or China as a whole. [The exponential increase in case numbers in China](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html) gave early indications of what was to come in the coming weeks and months. By late January, [parts of china were in lockdown in hopes of stopping the spread](https://edition.cnn.com/2020/01/26/asia/wuhan-coronavirus-update-intl-hnk/index.html). The virus then soon found its way to [South Korean, then to Iran, Italy, rest of Europe, and in recent weeks, we have seen the infection rates in USA increase dramatically](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html). The spread of virus through these early months is visualised in the plot below. 
 
 <p align='center'>
-<img class='img-post' alt="Daily cases of Corona virus" src="/assets/img/posts/dailyCasesMap.gif" width="90%">
+<img class='img-post' alt="Daily cases of Corona virus" src="/assets/img/posts/dailyCasesMap.gif" width="80%">
 </p>
 <p align='center'>
 Fig 1. Map of Daily Sars-CoV-2 cases seen by countries
@@ -57,7 +57,7 @@ Fig 5. Corona cases for five rich countries with GDP per capita of near 100,000 
 </p>
 
 <p align='center'>
-<img class='img-post' src="/assets/img/posts/world_flight_network.gif" alt="World flight network" width="90%"/>
+<img class='img-post' src="/assets/img/posts/world_flight_network.gif" alt="World flight network" width="80%"/>
 </p>
 <p align='center'>
 Fig 6. Network of flight connection to different countries visualised for each country.
