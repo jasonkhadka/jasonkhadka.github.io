@@ -6,8 +6,8 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
-      url: /about
+    - text: Resume
+      url: /resume
     - text: Blog
       url: /blog
     - text: Contact Me
@@ -17,12 +17,17 @@ urls:
 
 author_logo: jasonkhadka.png
 author: Jason Khadka
-author_bio: Hello, My Name is Jason Khadka. I am a doctorate in theoretical physics with focus on application of mathematical tools in understanding multitude of fields from physics to business. I have more than 4 years of experience on a role similar to a Data Scientist where I worked with Python and other tools to create models for large heterogeneous data and generate insights. I am currently aimed at application of machine learning, artificial intelligence and other statistical techniques in tackling real world problems and build disruptive products. 
+author_bio: Hello, My Name is Jason Khadka. I am a doctorate in computational physics with insterest and experience in machine learning and artifical intelligence.
 author_email: "jasonkhadka33@gmail.com"
 author_location: Germany
 author_website_url: "jasonkhadka.github.io"
 
 author_work_experiences:
+            - company_name: Factorypal
+              company_logo: factorypal.png
+              designation: Senior IIOT Data Analyst
+              description: Design & development of algorithms, analytics and reporting
+              visibility: true
             - company_name: PwC
               company_logo: pwc.png
               designation: Senior Consultant
