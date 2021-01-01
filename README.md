@@ -1,6 +1,6 @@
 
 ## Welcome to my personal site
-This site is aimed to keep track of my projects and provide my [short bio](jasonkhadka.github.io).
+This site is aimed to keep track of my projects and provide my [short bio](jhttps://jasonkhadka.github.io/).
 
 ## Built with Jekyll
 
