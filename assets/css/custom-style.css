@@ -1,0 +1,28 @@
+body{
+    background-color: #151;
+}
+blockquote {
+    margin: 2rem 1rem 1rem;
+    padding: 3px;
+    background: whitesmoke;
+    border: 1px solid;
+}
+.img-post{
+  vertical-align: middle;
+  border-style: none; // Remove the border on images inside links in IE 10-.
+}
+.img-post-small{
+  vertical-align: middle;
+  border-style: none; // Remove the border on images inside links in IE 10-.
+  max-width:50%;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ .img-post{
+    max-width:100%;
+  }
+  .img-post-small{
+    max-width:100%;
+  }
+}
