@@ -95,6 +95,7 @@ html,
 html[data-theme="dark"],
 html[data-theme="light"] {
     height: 100%;
+    min-height: 100%;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     scroll-behavior: smooth;
