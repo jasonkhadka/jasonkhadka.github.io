@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: jasonkhadka.png
 author: Dr. Jason Khadka
 author_bio: PhD in Computation Physics working on problems in Artificial Intelligence.
 author_email: "jasonkhadka33@gmail.com"
