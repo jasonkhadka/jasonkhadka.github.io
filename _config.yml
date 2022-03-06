@@ -84,7 +84,7 @@ author_project_details:
               - project_thumbnail: padl.png
                 project_title: Pipeline Abstractions for Deep Learning (PADL)
                 project_description: A unifying open-source development framework for the entire PyTorch workflow
-                project_url: padl.ai
+                project_url: https://padl.ai
                 visibility: true
 
 # social links
