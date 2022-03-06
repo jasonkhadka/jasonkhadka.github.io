@@ -12,8 +12,8 @@ urls:
       url: /resume
     - text: Github
       url: /github
-   #  - text: Blog
-   #    url: /blog
+    - text: Blog
+      url: /blog
    #  - text: Gallery
    #    url: /gallery
    #  - text: Shop
