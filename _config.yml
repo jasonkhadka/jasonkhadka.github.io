@@ -81,11 +81,11 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
+              - project_thumbnail: padl.png
+                project_title: Pipeline Abstractions for Deep Learning (PADL)
+                project_description: A unifying open-source development framework for the entire PyTorch workflow
+                project_url: padl.ai
+                visibility: true
 
 # social links
 twitter_username: jasonkhdk
